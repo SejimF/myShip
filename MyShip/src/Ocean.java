@@ -7,7 +7,9 @@ public class Ocean
 	
 	Ocean (){}
 	
-	void placeAllShipsRandomly() {}
+	void placeAllShipsRandomly() {
+		
+	}
 	boolean nextBoolean() {
 		return false;
 	}
